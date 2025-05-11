@@ -5,6 +5,8 @@ install sam--cli
 
 
 # DEBUG
+wsl
+levantar docker desktop
 sam build --use-container
 sam local start-api --debug-port 5890
 enviar una petición con postman
