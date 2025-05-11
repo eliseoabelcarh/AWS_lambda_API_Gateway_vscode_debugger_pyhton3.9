@@ -161,3 +161,14 @@ cython_debug/
 
 # virtual environments
 .dev
+.aws-sam/
+# AWS SAM build artifacts
+.aws-sam/build/
+# AWS SAM local state
+.aws-sam/local-env.json
+# AWS SAM local state
+.aws-sam/packaged.yaml
+# AWS SAM local state
+.aws-sam/packaged.json
+# AWS SAM local state
+.aws-sam/packaged.yaml          
